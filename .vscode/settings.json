@@ -1,9 +1,0 @@
-{
-    "python-envs.pythonProjects": [
-        {
-            "path": "AI1P-Labb-2-Markus-Merits",
-            "envManager": "ms-python.python:venv",
-            "packageManager": "ms-python.python:pip"
-        }
-    ]
-}
